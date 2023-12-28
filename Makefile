@@ -14,7 +14,7 @@ new-migration:
 	@echo "Creating new migration with name $(name)..."
 	@dbmate new $(name)
 
-.PHONY: migrate
+.PHONY: db-up
 db-up:
 	@echo "Running migrations..."
 	@dbmate up

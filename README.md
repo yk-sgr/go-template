@@ -1,5 +1,12 @@
 # Go Template
 
+## Features
+- PostgreSQL via SQLC
+- Migrations via Dbmate
+- Chi Router
+- Code first OpenAPI generation via Swaggo
+- Email SignUp&SignIn with JWT (NOT RECOMMENDED)
+
 ## Installlation
 ### dbmate
 #### NPM
