@@ -1,6 +1,6 @@
 module github.com/yk-sgr/nexthook-api
 
-go 1.21.5
+go 1.22.0
 
 require (
 	github.com/cohesivestack/valgo v0.2.4
