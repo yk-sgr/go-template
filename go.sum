@@ -2,6 +2,8 @@ github.com/KyleBanks/depth v1.2.1 h1:5h8fQADFrWtarTdtDudMmGsC7GPbOAu6RVB3ffsVFHc
 github.com/KyleBanks/depth v1.2.1/go.mod h1:jzSb9d0L43HxTQfT+oSA1EEp2q+ne2uh6XgeJcm8brE=
 github.com/cohesivestack/valgo v0.2.4 h1:GwMxDD9amj4DENBMHfUaVPz8y509Lex1mCBvqR2wpsk=
 github.com/cohesivestack/valgo v0.2.4/go.mod h1:dJmvzYCCTJkgVK3XM4ZDTSJhV70bpJAgfcemS5VcwpE=
+github.com/cohesivestack/valgo v0.3.0 h1:2/2mLnuMFY9idwy0I9hiZ10qrJwj4wA+M2vYBk5Zaxo=
+github.com/cohesivestack/valgo v0.3.0/go.mod h1:dJmvzYCCTJkgVK3XM4ZDTSJhV70bpJAgfcemS5VcwpE=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
